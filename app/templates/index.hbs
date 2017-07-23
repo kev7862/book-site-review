@@ -1,2 +1,14 @@
 <h1 class="page-header">BOOKSITE REVIEW</h1>
 <h3 class="tag-line">Welcome to online first book review site!</h3>
+
+<hr>
+{{display-favorite-books}}
+<hr>
+
+<div class="index-books-list">
+  {{#each model as |book|}}
+    <div class="index-each-book">
+      {{book-tile book=book}}
+    </div>
+  {{/each}}
+</div>

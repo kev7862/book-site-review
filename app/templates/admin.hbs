@@ -1,1 +1,14 @@
-{{outlet}}
+<h1 class="page-header">Administrator</h1>
+
+{{new-book saveNewBook="saveNewBook"}}
+
+<div class="admin-books-list">
+  <h2>Books List</h2>
+  {{#each model.books as |book|}}
+    <div class="admin-each-book">
+      <h4>{{book.title}} By {{book.author}}</h4>
+      {{update-book book=book deleteBook="deleteBook"}}
+      <button {{action "deleteBook" book}} class="btn btn-danger">Delete</button>
+    </div>
+  {{/each}}
+</div>
