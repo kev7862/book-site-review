@@ -2,20 +2,44 @@
 
     "title": "Diary of Anne Frank",
     "author": "Anne Frank",
-    "image": "http://antonysimpson.com/wp-content/uploads/2011/01/Diary-of-a-Young-Girl-by-Anne-Frank.jpg"
+    "image": "http://antonysimpson.com/wp-content/uploads/2011/01/Diary-of-a-Young-Girl-by-Anne-Frank.jpg",
+    "reviews": "",
+    "description": "",
+    "totalBookRating": "",
+    "tagLine": ""
   },{
     "title": "Magic of thinking big",
     "author": "David Schwartz",
-    "image": "https://03fcd67fd51850d3ba6b-6cb392df11a341bce8c76b1898d0c030.ssl.cf3.rackcdn.com/large/9781/7850/9781785040474.jpg"
+    "image": "https://03fcd67fd51850d3ba6b-6cb392df11a341bce8c76b1898d0c030.ssl.cf3.rackcdn.com/large/9781/7850/9781785040474.jpg",
+    "reviews": "",
+    "description": "",
+    "totalBookRating": "",
+    "tagLine": ""
   },
   {
     "title": "Fish Tales",
     "author": "Stephen C. Lundin",
-    "image": "http://photo.goodreads.com/books/1172679750l/206403.jpg"
+    "image": "http://photo.goodreads.com/books/1172679750l/206403.jpg",
+    "reviews": "",
+    "description": "",
+    "totalBookRating": "",
+    "tagLine": ""
   },
   {
     "title": "The Secret",
     "author": "Ronda Byrne",
-    "image": "https://upload.wikimedia.org/wikipedia/en/0/02/TheSecretLogo.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/en/0/02/TheSecretLogo.jpg",
+    "reviews": "",
+    "description": "",
+    "totalBookRating": ""
   }]
+},
+{"review": [{
+  "username": "",
+  "date": "",
+  "profilePicture": "",
+  "rating": "",
+  "reviewContent": ""
+  }]
+
 }
