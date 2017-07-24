@@ -1,5 +1,5 @@
 # Project Name.
-## book-site-review.
+## Booksite Review.
 # Author.
 ## Kevin Matite.
 
@@ -14,6 +14,13 @@ You will need the following things properly installed on your computer.
 * [Node.js](https://nodejs.org/) (with NPM)
 * [Ember CLI](https://ember-cli.com/)
 * [PhantomJS](http://phantomjs.org/)
+
+# Technology used.
+* emberjs.
+* javascript
+* firebase (project deployment).
+* Html.
+* css
 
 ## Installation
 
