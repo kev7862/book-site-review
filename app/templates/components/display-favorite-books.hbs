@@ -1,9 +1,9 @@
 <div class="favorite-books">
   <h2>Your Favorite Books</h2>
-  <ul class="row">
+  <ul class="">
     {{#each favoriteBooks.favoriteBooksList as |favoritedBook|}}
-      <li class="col-md-6">{{favoritedBook.title}} By {{favoritedBook.author}}</li>
-      <button {{action "removeBookFromFavorites" book}} class="btn btn-outline-danger col-md-6">Remove</button>
+      <li class="col-md-3">{{favoritedBook.title}} By {{favoritedBook.author}}</li>
+      <button {{action "removeBookFromFavorites" book}} class="btn btn-outline-danger col-md-3">Remove</button>
     {{/each}}
   </ul>
 </div>
